@@ -3,6 +3,7 @@
 this is a simple appfor reading and inserting data in server through android app
 
 Settings:
+
 1)first you need to install XAMPP
 
 2)Start apache server and data base in Xampp
